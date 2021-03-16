@@ -1,2 +1,2 @@
-# DSP-Lab-Codes
-Matlab Codes for functions such as dft, idft and sampling theorem.
+# Digital Signal Processing-Lab-Codes
+Matlab Codes for functions such as DFT, IDFT and Sampling Theorem.
