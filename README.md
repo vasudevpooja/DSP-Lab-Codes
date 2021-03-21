@@ -39,5 +39,5 @@ Linear convolution is a mathematical operation done to calculate the output of a
 Circular convolution, also known as cyclic convolution, is a special case of periodic convolution, which is the convolution of two periodic functions that have the same period.
 
 ![circ](https://user-images.githubusercontent.com/76071184/111792752-90eb5a00-88ea-11eb-8070-9cb59ebb470e.PNG)
-
+ 
 
