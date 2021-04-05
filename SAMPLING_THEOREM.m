@@ -28,7 +28,6 @@ fs = 0.8*fm;
 ts = 1/fs;
 n = 0:1:(0.1*fs);
 xs = cos(2*pi*N1*(n*ts)) + cos(2*pi*N2*(n*ts));
-
 subplot(3,3,3);
 stem(n*ts,xs);
 xlabel("N -->");
