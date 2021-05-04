@@ -30,6 +30,11 @@ Autocorrelation, also known as serial correlation, is the correlation of a signa
 
 ![auto](https://user-images.githubusercontent.com/76071184/111792175-030f6f00-88ea-11eb-95b8-8979bd5b81f4.png)
 
+# Cross-correlation
+In signal processing, cross-correlation is a measure of similarity of two series as a function of the displacement of one relative to the other. This is also known as a sliding dot product or sliding inner-product.
+
+![xcorr_MATLAB](https://user-images.githubusercontent.com/76071184/117008462-63c30180-ad08-11eb-9c40-bc06c019b8ed.png)
+
 # Linear Convolution
 Linear convolution is a mathematical operation done to calculate the output of any Linear-Time Invariant (LTI) system given its input and impulse response.
 
