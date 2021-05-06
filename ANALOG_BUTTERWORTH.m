@@ -31,7 +31,7 @@ f=w/(2*pi);
 H_mag=20*log10(abs(H));
 figure;
 plot(f,H_mag);
-grid on;
+grid on; 
 xlabel('Frequency in Hz');
 ylabel('Magnitude in dB');
 title('Magnitude Response');
